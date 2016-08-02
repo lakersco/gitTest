@@ -7,6 +7,7 @@
 //
 
 // x7 changed
+//的风格是地方贵金属；感觉；是；感觉；时间；洛杉矶的风格； 时间；是
 
 #import "AppDelegate.h"
 
